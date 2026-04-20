@@ -1,16 +1,56 @@
-## Hi there 👋
+# Mohamed Adel Asar
 
-<!--
-**mohamedadel-devops/mohamedadel-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer focused on designing, deploying, securing, and operating production cloud infrastructure.
 
-Here are some ideas to get you started:
+I work with AWS, Kubernetes, Docker, Linux, CI/CD pipelines, GitOps workflows, secure secret management, ingress routing, and production troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Capabilities
+
+- Designing AWS-based production deployment environments
+- Deploying applications on Kubernetes using k3s
+- Building Docker-based CI/CD pipelines
+- Implementing GitOps workflows with Argo CD and Kustomize
+- Managing production secrets with AWS Secrets Manager and External Secrets Operator
+- Configuring secure routing using NGINX Ingress and Cloudflare Tunnel
+- Operating PostgreSQL workloads using AWS RDS
+- Supporting production troubleshooting, logs, deployments, and release workflows
+
+## Featured Projects
+
+### Dr. Lawyer Production DevOps Case Study
+
+Designed and implemented the production DevOps architecture for the Dr. Lawyer platform at PASS Technology.
+
+Key responsibilities included:
+
+- AWS infrastructure planning and production environment setup
+- k3s Kubernetes cluster deployment on AWS EC2
+- AWS RDS PostgreSQL integration
+- AWS S3 private upload storage configuration
+- AWS Secrets Manager integration with Kubernetes using External Secrets Operator
+- NGINX Ingress routing for backend, admin, and service endpoints
+- Cloudflare Tunnel configuration for secure public access
+- GitHub Actions CI/CD pipeline implementation
+- Argo CD GitOps workflow with Kustomize-based deployments
+- Production troubleshooting, access control, and operational support
+
+### HarborStore Kubernetes Microservices Platform
+
+Designed and deployed a Kubernetes-based microservices platform using k3s.
+
+The project includes:
+
+- Frontend service
+- API services
+- PostgreSQL database
+- Redis service
+- NGINX gateway
+- Kubernetes Deployments, Services, ConfigMaps, Secrets, PVCs, and Ingress
+- Deployment and destroy automation scripts
+- Structured Kubernetes manifests for clean operations
+
+## Contact
+
+- Email: mohamed@devops-eng.info
+- Website: https://devops-eng.info
+- LinkedIn: https://www.linkedin.com/in/mohamed-adel-907100370/

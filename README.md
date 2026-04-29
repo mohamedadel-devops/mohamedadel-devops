@@ -17,23 +17,6 @@ I work with AWS, Kubernetes, Docker, Linux, CI/CD pipelines, GitOps workflows, s
 
 ## Featured Projects
 
-### Dr. Lawyer Production DevOps Case Study
-
-Designed and implemented the production DevOps architecture for the Dr. Lawyer platform at PASS Technology.
-
-Key responsibilities included:
-
-- AWS infrastructure planning and production environment setup
-- k3s Kubernetes cluster deployment on AWS EC2
-- AWS RDS PostgreSQL integration
-- AWS S3 private upload storage configuration
-- AWS Secrets Manager integration with Kubernetes using External Secrets Operator
-- NGINX Ingress routing for backend, admin, and service endpoints
-- Cloudflare Tunnel configuration for secure public access
-- GitHub Actions CI/CD pipeline implementation
-- Argo CD GitOps workflow with Kustomize-based deployments
-- Production troubleshooting, access control, and operational support
-
 ### HarborStore Kubernetes Microservices Platform
 
 Designed and deployed a Kubernetes-based microservices platform using k3s.

@@ -1,39 +1,232 @@
-# Mohamed Adel Asar
+# Hi, I'm Mohamed Adel Asar
 
-DevOps Engineer focused on designing, deploying, securing, and operating production cloud infrastructure.
+## DevOps Engineer | AWS • Kubernetes • Docker • CI/CD • GitOps • Linux
 
-I work with AWS, Kubernetes, Docker, Linux, CI/CD pipelines, GitOps workflows, secure secret management, ingress routing, and production troubleshooting.
+I am a DevOps Engineer with **2 years of experience across DevOps engineering, cloud infrastructure, Linux server operations, and production deployments**.
 
-## Core Capabilities
+My work focuses on building secure, maintainable, and observable infrastructure using **AWS, Kubernetes, Docker, GitHub Actions, Argo CD, GitOps, Cloudflare Tunnel, Cloudflare Zero Trust, private database architecture, secrets management, Prometheus, and Grafana**.
 
-- Designing AWS-based production deployment environments
-- Deploying applications on Kubernetes using k3s
-- Building Docker-based CI/CD pipelines
-- Implementing GitOps workflows with Argo CD and Kustomize
-- Managing production secrets with AWS Secrets Manager and External Secrets Operator
-- Configuring secure routing using NGINX Ingress and Cloudflare Tunnel
-- Operating PostgreSQL workloads using AWS RDS
-- Supporting production troubleshooting, logs, deployments, and release workflows
+I have worked on real production environments where the goal was not only to deploy applications, but to make releases **traceable**, systems **observable**, access **controlled**, and infrastructure easier to operate safely.
 
-## Featured Projects
+---
 
-### HarborStore Kubernetes Microservices Platform
+## Professional Experience
 
-Designed and deployed a Kubernetes-based microservices platform using k3s.
+### DevOps Engineer — Pass Technology
+Worked on production DevOps infrastructure for a sensitive legal-tech platform.
 
-The project includes:
+Key areas included:
 
-- Frontend service
-- API services
-- PostgreSQL database
-- Redis service
-- NGINX gateway
-- Kubernetes Deployments, Services, ConfigMaps, Secrets, PVCs, and Ingress
-- Deployment and destroy automation scripts
-- Structured Kubernetes manifests for clean operations
+- Kubernetes-based backend service deployment
+- Dockerized application workloads
+- CI/CD and GitOps deployment flow
+- Argo CD synchronization
+- Cloudflare Tunnel for secure origin access
+- Cloudflare Zero Trust for protected internal tools
+- Private AWS RDS PostgreSQL access
+- AWS S3 file storage architecture
+- AWS Secrets Manager and Kubernetes secrets integration
+- Prometheus and Grafana monitoring
+- Production troubleshooting and handover documentation
 
-## Contact
+### Server Specialist — Digital Wave
+Worked on Linux-based server operations and production-like business systems.
 
-- Email: mohamed@devops-eng.info
-- Website: https://devops-eng.info
-- LinkedIn: https://www.linkedin.com/in/mohamed-adel-907100370/
+Key areas included:
+
+- Linux server administration
+- VPS/server environment support
+- Deployment support
+- DNS and domain configuration
+- Mailing and marketing system support
+- Troubleshooting and availability support
+- Server configuration and operational issue resolution
+
+---
+
+## Featured Production Case Study
+
+### Legal-Tech Production DevOps Case Study
+
+A sanitized public case study documenting a real production DevOps architecture.
+
+The case study covers:
+
+- AWS infrastructure
+- Kubernetes backend workloads
+- AWS Amplify frontend hosting
+- CI/CD pipelines
+- GitOps deployment control
+- Argo CD
+- Cloudflare Tunnel
+- Cloudflare Zero Trust
+- Private AWS RDS PostgreSQL
+- AWS S3 file storage
+- AWS Secrets Manager
+- External Secrets Operator
+- Prometheus and Grafana monitoring
+- Secure internal operations
+
+Repository:  
+[legal-tech-production-devops-case-study](https://github.com/mohamedadel-devops/legal-tech-production-devops-case-study)
+
+Video walkthrough:  
+Coming soon.
+
+---
+
+## Technical Skills
+
+### Cloud and Infrastructure
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-Server%20Operations-black?style=for-the-badge&logo=linux)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Tunnel%20%26%20Zero%20Trust-f38020?style=for-the-badge&logo=cloudflare)
+
+- AWS EC2
+- AWS RDS PostgreSQL
+- AWS S3
+- AWS Secrets Manager
+- Linux server operations
+- Private database architecture
+- Cloudflare DNS
+- Cloudflare Tunnel
+- Cloudflare Zero Trust
+
+### Containers and Orchestration
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
+
+- Docker
+- Kubernetes
+- Kubernetes Deployments
+- Kubernetes Services
+- Kubernetes Ingress
+- Kubernetes Secrets
+- Namespaces
+- Health checks
+- k3s
+
+### CI/CD and GitOps
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=for-the-badge&logo=argo)
+
+- GitHub Actions
+- Docker image build workflows
+- Multi-environment deployment flow
+- GitOps repositories
+- Argo CD synchronization
+- Staging and production separation
+- Versioned image deployments
+- Rollback planning
+
+### Monitoring and Operations
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana)
+
+- Prometheus
+- Grafana
+- Kubernetes metrics
+- Pod and service health
+- Cluster visibility
+- Production troubleshooting
+- Operational documentation
+
+---
+
+## DevOps Principles I Focus On
+
+- Secure infrastructure by design
+- Reduce public exposure of production systems
+- Keep databases private
+- Never store secrets in Git
+- Make releases traceable and reviewable
+- Use GitOps as the source of truth
+- Monitor production systems properly
+- Protect internal tools with Zero Trust access
+- Keep infrastructure documented and handover-friendly
+- Build systems that are easier to explain, troubleshoot, and operate
+
+---
+
+## Selected Projects
+
+### Production Legal-Tech DevOps Case Study
+Sanitized production architecture covering AWS, Kubernetes, CI/CD, GitOps, Cloudflare Tunnel, Zero Trust, private database access, secrets management, and monitoring.
+
+[View Repository](https://github.com/mohamedadel-devops/legal-tech-production-devops-case-study)
+
+### CI/CD FastAPI Docker EC2
+A DevOps project demonstrating Dockerized FastAPI deployment, CI/CD automation, staging and production environments, health checks, and deployment workflows.
+
+[View Repository](https://github.com/mohamedadel-devops/ci-cd-fastapi-docker-ec2)
+
+### Node Queue Platform DevOps
+A Node.js API and worker platform using Docker, Redis, PostgreSQL, CI/CD pipelines, staging and production deployment workflows, and rollback logic.
+
+[View Repository](https://github.com/mohamedadel-devops/node-queue-platform)
+
+### Terraform AWS Infrastructure
+Infrastructure-as-Code practice using Terraform modules, remote state, state locking, imports, workspaces, and AWS infrastructure provisioning.
+
+[View Repository](https://github.com/mohamedadel-devops/terraform-aws-infra)
+
+---
+
+## Current Focus
+
+I am currently focused on strengthening my production DevOps portfolio around:
+
+- AWS cloud infrastructure
+- Kubernetes production operations
+- CI/CD and GitOps workflows
+- Secure access patterns
+- Secrets management
+- Monitoring and observability
+- Platform engineering practices
+- Production troubleshooting
+
+I am also publishing technical content that explains real DevOps architecture decisions in a clear, recruiter-friendly, and engineering-focused way.
+
+---
+
+## Open to Opportunities
+
+I am open to roles such as:
+
+- DevOps Engineer
+- Cloud DevOps Engineer
+- Kubernetes DevOps Engineer
+- Platform Engineer
+- Cloud Infrastructure Engineer
+- Site Reliability Engineer
+
+Preferred locations:
+
+- Saudi Arabia
+- Gulf region
+- Remote international opportunities
+
+---
+
+## Links
+
+- Portfolio: [devops-eng.info](https://devops-eng.info)
+- LinkedIn: [Mohamed Adel Asar](https://www.linkedin.com/in/mohamed-adel-907100370/)
+- GitHub: [mohamedadel-devops](https://github.com/mohamedadel-devops)
+- Production DevOps Case Study: [legal-tech-production-devops-case-study](https://github.com/mohamedadel-devops/legal-tech-production-devops-case-study)
+
+---
+
+## GitHub Activity
+
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedadel-devops&show_icons=true&hide_title=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedadel-devops&layout=compact&hide_border=true)
+
+---
+
+## Professional Summary
+
+I am not focused on collecting tool names. I focus on understanding how production systems are designed, deployed, secured, monitored, and operated.
+
+My goal is to build infrastructure that is secure, traceable, observable, and maintainable.
